@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaryab-m-shaikh
-- 👀 I’m interested in Website Making
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on New Projects
+- 👀 I’m interested in Full Stack/Mern Stack
+- 🌱 I’m currently learning Python Full Stack Development
+- 💞️ I’m looking to collaborate on ReactJs Projects
 - 📫 How to reach me ...
 
 <!---
